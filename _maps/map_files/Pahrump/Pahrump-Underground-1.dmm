@@ -16,7 +16,7 @@
 	},
 /area/f13/building)
 "aaR" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /turf/open/floor/f13{
 	icon_state = "bluerustyfull"
 	},
@@ -3309,7 +3309,7 @@
 	},
 /area/f13/enclave)
 "cka" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/item/trash/f13/bubblegum,
 /obj/structure/lattice{
 	density = 1
@@ -5939,7 +5939,7 @@
 /obj/structure/lattice{
 	density = 1
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -6404,7 +6404,7 @@
 /area/f13/merchant)
 "exp" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/lattice{
 	density = 1
 	},
@@ -9839,7 +9839,7 @@
 /turf/open/floor/carpet/red,
 /area/f13/den)
 "gOV" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 9
 	},
 /obj/structure/lattice{
@@ -11555,7 +11555,7 @@
 /turf/open/floor/plating,
 /area/f13/tcoms)
 "ija" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10
 	},
 /obj/structure/lattice{
@@ -12993,7 +12993,7 @@
 /turf/open/floor/plating/tunnel,
 /area/f13/caves)
 "jpw" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5
 	},
 /turf/open/floor/plasteel/f13/vault_floor/blue/white,
@@ -14255,7 +14255,7 @@
 	},
 /area/f13/building)
 "krN" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 9
 	},
 /turf/open/floor/plasteel/f13/vault_floor/blue/white,
@@ -14395,7 +14395,7 @@
 /area/f13/caves)
 "kyx" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6
 	},
 /obj/structure/lattice{
@@ -14781,7 +14781,7 @@
 	},
 /area/f13/bunker)
 "kMi" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -14946,7 +14946,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/merchant)
 "kXa" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/lattice{
 	density = 1
@@ -16013,7 +16013,7 @@
 /turf/open/floor/wood/f13/oak,
 /area/f13/building)
 "lNt" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6
 	},
 /turf/open/floor/plating/tunnel,
@@ -16495,7 +16495,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood)
 "mkj" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5
 	},
 /obj/structure/lattice{
@@ -19701,7 +19701,7 @@
 	},
 /area/f13/sewer)
 "paF" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/lattice{
 	layer = 3
 	},
@@ -20750,7 +20750,7 @@
 	},
 /area/f13/bunker)
 "pRf" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/lattice{
 	layer = 3
 	},
@@ -20952,7 +20952,7 @@
 /obj/structure/lattice{
 	density = 1
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -21016,7 +21016,7 @@
 	light_range = 4;
 	name = "inactive fusion reactor tube"
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10
 	},
 /turf/open/floor/plating/tunnel,
@@ -22166,7 +22166,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/brotherhood/medical)
 "qXr" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4
 	},
 /obj/structure/lattice{
@@ -22569,7 +22569,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/yellow,
 /area/f13/tunnel)
 "rnZ" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/lattice{
 	density = 1
 	},
@@ -22640,7 +22640,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/red,
 /area/f13/brotherhood/armory)
 "rpZ" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/lattice{
 	density = 1
 	},
@@ -22765,7 +22765,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "rvG" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/effect/decal/cleanable/insectguts,
 /obj/structure/lattice{
 	density = 1
@@ -22875,7 +22875,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/tunnel)
 "ryf" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/lattice{
 	density = 1
 	},
@@ -23718,7 +23718,7 @@
 /area/f13/ncr)
 "rZy" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/lattice{
 	density = 1
 	},
@@ -25533,7 +25533,7 @@
 /obj/structure/lattice{
 	density = 1
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -25949,7 +25949,7 @@
 	color = "000000"
 	},
 /obj/item/flag/bos,
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6
 	},
 /obj/machinery/light/small{
@@ -27167,7 +27167,7 @@
 	},
 /area/f13/enclave)
 "uTy" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6
 	},
 /obj/structure/lattice{
@@ -28683,7 +28683,7 @@
 /obj/structure/lattice{
 	density = 1
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -29167,7 +29167,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/enclave)
 "wmf" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/destructible/clockwork/wall_gear{
 	pixel_y = 32
 	},
@@ -29196,7 +29196,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/red,
 /area/f13/brotherhood/armory)
 "wnT" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6
 	},
 /obj/structure/decoration/vent{
@@ -29228,7 +29228,7 @@
 	layer = 2;
 	pixel_y = 32
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10
 	},
 /obj/structure/lattice{
@@ -29394,7 +29394,7 @@
 /turf/closed/mineral/random/low_chance/underground,
 /area/f13/caves)
 "wwB" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/lattice{
 	layer = 3
 	},
@@ -30872,7 +30872,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/yellow/whiteyellowfull,
 /area/f13/bunker)
 "xBr" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/lattice{
 	density = 1
@@ -30888,7 +30888,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/bunker)
 "xBz" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4
 	},
 /obj/structure/lattice{
@@ -31770,7 +31770,7 @@
 	color = "000000"
 	},
 /obj/item/flag/bos,
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10
 	},
 /obj/machinery/light/small{

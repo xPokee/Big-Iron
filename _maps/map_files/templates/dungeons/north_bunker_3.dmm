@@ -454,7 +454,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/radiation)
 "ms" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
@@ -780,7 +780,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/tunnel)
 "ws" = (
-/obj/structure/fluff/railing/corner,
+/obj/structure/railing/corner,
 /obj/structure/spacevine{
 	name = "vines"
 	},
@@ -840,7 +840,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker)
 "zf" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/spacevine{
 	name = "vines"
 	},
@@ -869,7 +869,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker)
 "zu" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /obj/structure/spacevine{
@@ -1321,7 +1321,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/bunker)
 "KZ" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4
 	},
 /obj/structure/spacevine{
@@ -1407,7 +1407,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker)
 "NO" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 8
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
@@ -1622,7 +1622,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker)
 "VK" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /obj/structure/spacevine{
@@ -1671,7 +1671,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker)
 "Xa" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 1
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
@@ -1766,7 +1766,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker)
 "ZW" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,

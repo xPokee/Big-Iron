@@ -38,7 +38,7 @@
 /turf/open/floor/carpet/purple,
 /area/f13/cotc)
 "aaf" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4;
 	color = "#A47449"
 	},
@@ -46,7 +46,7 @@
 /turf/open/indestructible/ground/outside/savannah,
 /area/f13/kebab)
 "aag" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/table/reinforced{
 	color = "#c1b6a5"
 	},
@@ -140,7 +140,7 @@
 /turf/closed/wall/f13/tunnel,
 /area/f13/tunnel)
 "aat" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449";
 	dir = 1
 	},
@@ -404,7 +404,7 @@
 /turf/open/floor/f13,
 /area/f13/brotherhood/surface)
 "aaZ" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /turf/open/transparent/openspace,
@@ -804,11 +804,11 @@
 	},
 /area/f13/building)
 "aca" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 8;
 	color = "#A47449"
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4;
 	color = "#A47449"
 	},
@@ -1058,7 +1058,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/neutral/white,
 /area/f13/kebab)
 "acI" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /turf/closed/wall/mineral/concrete,
@@ -1123,7 +1123,7 @@
 /area/f13/building)
 "acR" = (
 /obj/structure/table,
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#968d87";
 	dir = 4
 	},
@@ -1677,7 +1677,7 @@
 /turf/open/floor/wood/f13,
 /area/f13/kebab)
 "aen" = (
-/obj/structure/fluff/railing/corner,
+/obj/structure/railing/corner,
 /turf/open/transparent/openspace{
 	name = "air";
 	sunlight_state = 1
@@ -1856,7 +1856,7 @@
 /turf/open/floor/wood/wood_large,
 /area/f13/wasteland)
 "aeQ" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5;
 	color = "#A47449"
 	},
@@ -1983,7 +1983,7 @@
 	dir = 4;
 	pixel_y = -16
 	},
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /turf/open/floor/plasteel/f13/vault_floor/red/side{
@@ -2248,7 +2248,7 @@
 	},
 /area/f13/wasteland)
 "afR" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /turf/open/transparent/openspace{
@@ -2280,7 +2280,7 @@
 	},
 /area/f13/raiders)
 "afV" = (
-/obj/structure/fluff/railing/corner,
+/obj/structure/railing/corner,
 /obj/structure/railing{
 	dir = 8
 	},
@@ -2392,7 +2392,7 @@
 /obj/structure/railing{
 	dir = 4
 	},
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /turf/open/transparent/openspace{
@@ -2719,10 +2719,10 @@
 /turf/open/floor/f13,
 /area/f13/brotherhood/surface)
 "ahd" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /turf/open/transparent/openspace{
@@ -2793,7 +2793,7 @@
 	},
 /area/f13/ncr)
 "ahp" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /turf/open/transparent/openspace{
@@ -2917,7 +2917,7 @@
 /obj/structure/railing{
 	dir = 4
 	},
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /turf/open/transparent/openspace{
@@ -3277,7 +3277,7 @@
 /turf/closed/wall/f13/wood,
 /area/f13/raiders)
 "aiE" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449";
 	dir = 1
 	},
@@ -3307,7 +3307,7 @@
 /turf/open/floor/wood/f13/oak,
 /area/f13/kebab)
 "aiI" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5;
 	color = "#A47449"
 	},
@@ -3536,7 +3536,7 @@
 /turf/open/indestructible/ground/outside/savannah,
 /area/f13/wasteland)
 "ajj" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /obj/structure/railing{
@@ -3663,7 +3663,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/floor,
 /area/f13/ncr)
 "ajA" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	color = "#A47449"
 	},
 /turf/open/transparent/openspace{
@@ -3680,7 +3680,7 @@
 /turf/open/floor/wood/f13/oak,
 /area/f13/kebab)
 "ajC" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /turf/open/transparent/openspace{
@@ -3905,7 +3905,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/caves)
 "aki" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449";
 	dir = 1
 	},
@@ -3931,7 +3931,7 @@
 /obj/machinery/hydroponics/soil/pot{
 	pixel_y = 10
 	},
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/table/reinforced{
 	color = "#c1b6a5"
 	},
@@ -4216,7 +4216,7 @@
 /turf/open/floor/plasteel/cult,
 /area/f13/cotc)
 "alc" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /turf/open/transparent/openspace{
@@ -4228,7 +4228,7 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "#363636"
 	},
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	color = "#968d87"
 	},
 /turf/open/floor/wood/f13/oak,
@@ -4696,10 +4696,10 @@
 /turf/closed/wall/f13/wood/house,
 /area/f13/raiders)
 "amo" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
-/obj/structure/fluff/railing/corner,
+/obj/structure/railing/corner,
 /turf/open/transparent/openspace{
 	name = "air";
 	sunlight_state = 1
@@ -5578,7 +5578,7 @@
 /turf/closed/wall/f13/wood/house,
 /area/f13/caves)
 "aoD" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4;
 	color = "#A47449"
 	},
@@ -5661,7 +5661,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/floor,
 /area/f13/ncr)
 "aoM" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6;
 	color = "#A47449"
 	},
@@ -5702,8 +5702,8 @@
 /turf/open/floor/wood/f13/stage_br,
 /area/f13/caves)
 "aoS" = (
-/obj/structure/fluff/railing/corner,
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner,
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /obj/structure/railing{
@@ -5746,7 +5746,7 @@
 /turf/open/floor/wood/f13/oak,
 /area/f13/wasteland)
 "aoX" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /obj/structure/railing,
@@ -5780,7 +5780,7 @@
 /area/f13/caves)
 "apb" = (
 /obj/machinery/vending/cola/space_up,
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /turf/open/floor/f13{
@@ -5792,10 +5792,10 @@
 /turf/open/floor/carpet/red,
 /area/f13/kebab)
 "apd" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /turf/open/transparent/openspace{
@@ -7868,7 +7868,7 @@
 /turf/open/floor/carpet/black,
 /area/f13/kebab)
 "aun" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 9;
 	color = "#A47449"
 	},
@@ -7902,7 +7902,7 @@
 /area/f13/kebab)
 "aus" = (
 /obj/structure/chair,
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /turf/open/floor/f13{
@@ -8347,7 +8347,7 @@
 /turf/open/floor/carpet/arcade,
 /area/f13/building)
 "avD" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449";
 	dir = 1
 	},
@@ -8502,7 +8502,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "avY" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /turf/open/transparent/openspace,
 /area/f13/wasteland)
 "avZ" = (
@@ -8515,7 +8515,7 @@
 /turf/open/floor/wood/f13/oak,
 /area/f13/wasteland)
 "awa" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4
 	},
 /turf/open/transparent/openspace,
@@ -9009,7 +9009,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/white,
 /area/f13/clinic)
 "axs" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /turf/open/transparent/openspace,
@@ -9123,11 +9123,11 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "axH" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	color = "#A47449";
 	dir = 1
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4;
 	color = "#A47449"
 	},
@@ -9819,7 +9819,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/building)
 "azz" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /turf/open/transparent/openspace{
@@ -9865,7 +9865,7 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "#363636"
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#968d87"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/dark,
@@ -10209,11 +10209,11 @@
 /turf/open/floor/wood/f13/oak,
 /area/f13/building)
 "aAD" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	color = "#A47449";
 	dir = 8
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4;
 	color = "#A47449"
 	},
@@ -10511,7 +10511,7 @@
 /area/f13/ncr)
 "aBw" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /turf/open/floor/f13,
@@ -10616,7 +10616,7 @@
 /area/f13/building)
 "aBK" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /turf/open/floor/wood/f13/old,
@@ -10713,7 +10713,7 @@
 /area/f13/merchant)
 "aBX" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /turf/open/floor/plasteel/f13/vault_floor/red/corner{
@@ -10966,7 +10966,7 @@
 /turf/closed/wall/f13/wood,
 /area/f13/caves)
 "aCE" = (
-/obj/structure/fluff/railing/corner,
+/obj/structure/railing/corner,
 /turf/open/transparent/openspace,
 /area/f13/wasteland)
 "aCG" = (
@@ -11386,7 +11386,7 @@
 	},
 /area/f13/clinic)
 "aDL" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4;
 	color = "#A47449"
 	},
@@ -11421,7 +11421,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
 "aDQ" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /turf/open/transparent/openspace{
@@ -11579,7 +11579,7 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "#363636"
 	},
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	color = "#968d87";
 	dir = 8
 	},
@@ -11619,7 +11619,7 @@
 /turf/open/floor/wood/wood_large,
 /area/f13/building)
 "aEs" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6;
 	color = "#A47449"
 	},
@@ -11798,7 +11798,7 @@
 /turf/open/indestructible/ground/outside/woodalt,
 /area/f13/raiders)
 "aEW" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 8;
 	color = "#A47449"
 	},
@@ -12713,7 +12713,7 @@
 /turf/closed/wall/f13/wood,
 /area/f13/raiders)
 "aHz" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	color = "#A47449";
 	dir = 8
 	},
@@ -12854,7 +12854,7 @@
 /obj/effect/decal/cleanable/blood/old{
 	pixel_x = 12
 	},
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /turf/open/floor/f13/wood,
@@ -13194,7 +13194,7 @@
 /turf/open/indestructible/ground/outside/woodalt,
 /area/f13/kebab)
 "aIO" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5;
 	color = "#A47449"
 	},
@@ -13600,7 +13600,7 @@
 /obj/machinery/hydroponics/soil/pot{
 	pixel_y = 10
 	},
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/table/reinforced{
 	color = "#c1b6a5"
 	},
@@ -13801,7 +13801,7 @@
 /turf/open/floor/wood/f13/carpet,
 /area/f13/merchant)
 "aKE" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 8;
 	color = "#A47449"
 	},
@@ -13899,7 +13899,7 @@
 /area/f13/wasteland)
 "aKP" = (
 /obj/structure/table,
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#968d87";
 	dir = 4
 	},
@@ -14468,7 +14468,7 @@
 	},
 /area/f13/building)
 "aMq" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10;
 	color = "#A47449"
 	},
@@ -14941,7 +14941,7 @@
 	},
 /area/f13/building)
 "aNz" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449";
 	dir = 1
 	},
@@ -15018,7 +15018,7 @@
 	},
 /area/f13/building)
 "aNI" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 8;
 	color = "#A47449"
 	},
@@ -15100,7 +15100,7 @@
 /turf/closed/wall/f13/store,
 /area/f13/building)
 "aNV" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10;
 	color = "#A47449"
 	},
@@ -15568,7 +15568,7 @@
 	},
 /area/f13/legion)
 "aPe" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	color = "#A47449";
 	dir = 4
 	},
@@ -15734,7 +15734,7 @@
 	dir = 8;
 	termtag = "Business"
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#968d87";
 	dir = 6
 	},
@@ -15801,7 +15801,7 @@
 	},
 /area/f13/wasteland)
 "aPM" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449";
 	dir = 1
 	},
@@ -15959,7 +15959,7 @@
 	},
 /area/f13/clinic)
 "aQh" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /turf/open/transparent/openspace{
@@ -16320,7 +16320,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/building)
 "aRa" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 1
 	},
 /turf/open/transparent/openspace,
@@ -16333,7 +16333,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/wasteland)
 "aRc" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /turf/open/transparent/openspace,
@@ -17200,7 +17200,7 @@
 /obj/machinery/hydroponics/soil/pot{
 	pixel_y = 10
 	},
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/table/reinforced{
 	color = "#c1b6a5"
 	},
@@ -17385,7 +17385,7 @@
 	},
 /area/f13/brotherhood/surface)
 "aTV" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6;
 	color = "#A47449"
 	},
@@ -18251,7 +18251,7 @@
 /turf/open/floor/wood/wood_diagonal,
 /area/f13/kebab)
 "aWf" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	color = "#A47449";
 	dir = 1
 	},
@@ -18349,7 +18349,7 @@
 	},
 /area/f13/ncr)
 "aWr" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 9;
 	color = "#A47449"
 	},
@@ -18610,7 +18610,7 @@
 /turf/open/floor/wood/f13,
 /area/f13/merchant)
 "aXe" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 9;
 	color = "#A47449"
 	},
@@ -19533,7 +19533,7 @@
 "aZF" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/barricade/sandbags,
-/obj/structure/fluff/railing/corner,
+/obj/structure/railing/corner,
 /turf/open/floor/f13,
 /area/f13/brotherhood/surface)
 "aZG" = (
@@ -19541,7 +19541,7 @@
 /turf/open/floor/plasteel/cult,
 /area/f13/cotc)
 "aZH" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10;
 	color = "#A47449"
 	},
@@ -19666,7 +19666,7 @@
 /turf/open/floor/f13,
 /area/f13/brotherhood/surface)
 "aZY" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/table/reinforced{
 	color = "#c1b6a5"
 	},
@@ -20065,7 +20065,7 @@
 /obj/structure/fence{
 	dir = 4
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449";
 	dir = 1
 	},

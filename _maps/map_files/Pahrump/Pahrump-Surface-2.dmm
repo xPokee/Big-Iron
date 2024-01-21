@@ -130,7 +130,7 @@
 /obj/effect/spawner/lootdrop/f13/weapon/melee/random,
 /obj/item/clothing/head/f13/police/officer,
 /obj/item/clothing/under/f13/police/officer,
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /turf/open/floor/f13{
@@ -2593,7 +2593,7 @@
 	},
 /area/f13/building)
 "aZQ" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5
 	},
 /turf/open/water,
@@ -5877,7 +5877,7 @@
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/wasteland)
 "coG" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /turf/open/water,
@@ -6667,7 +6667,7 @@
 	},
 /area/f13/building)
 "cHy" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /turf/open/floor/plasteel/darkblue/corner,
@@ -6866,7 +6866,7 @@
 	},
 /area/f13/bunker)
 "cMb" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
@@ -9259,7 +9259,7 @@
 	},
 /area/f13/ncr)
 "dHH" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10
 	},
 /obj/structure/destructible/tribal_torch/lit,
@@ -9345,7 +9345,7 @@
 	},
 /area/f13/building)
 "dJw" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 9
 	},
 /obj/structure/flora/junglebush/large,
@@ -10042,7 +10042,7 @@
 	layer = 11;
 	name = "Yuma mall"
 	},
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
 	icon_state = "floorrustysolid"
 	},
@@ -12081,7 +12081,7 @@
 /turf/open/floor/wood/f13/oak,
 /area/f13/village)
 "eKj" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /obj/structure/flora/junglebush,
@@ -12166,7 +12166,7 @@
 /turf/open/floor/wood/f13/oak,
 /area/f13/building)
 "eKS" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5;
 	color = "#A47449"
 	},
@@ -15717,7 +15717,7 @@
 	},
 /area/f13/wasteland)
 "gdb" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /obj/structure/flora/tree/jungle/small,
@@ -17336,7 +17336,7 @@
 	icon_state = "open";
 	name = "vault door 454"
 	},
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/building)
 "gGO" = (
@@ -17359,7 +17359,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/dark,
 /area/f13/brotherhood/surface)
 "gHq" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10
 	},
 /turf/open/water,
@@ -17894,7 +17894,7 @@
 /obj/machinery/light{
 	dir = 1
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10
 	},
 /turf/open/water,
@@ -20043,7 +20043,7 @@
 	},
 /area/f13/wasteland)
 "hEA" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /obj/structure/flora/junglebush/large,
@@ -20164,7 +20164,7 @@
 	},
 /area/f13/cotc)
 "hHj" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /turf/open/floor/f13{
@@ -22840,7 +22840,7 @@
 /turf/open/floor/plasteel/grimy,
 /area/f13/brotherhood/surface)
 "iKy" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /obj/structure/flora/junglebush,
@@ -24925,7 +24925,7 @@
 /area/f13/building)
 "jCm" = (
 /obj/structure/table/wood/bar,
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /turf/open/floor/wood/f13,
@@ -25061,7 +25061,7 @@
 /turf/open/floor/plasteel/darkblue/corner,
 /area/f13/building)
 "jFx" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 9
 	},
 /obj/structure/destructible/tribal_torch/lit,
@@ -25925,7 +25925,7 @@
 	layer = 11;
 	name = "Yuma mall"
 	},
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/building)
 "jXf" = (
@@ -26128,7 +26128,7 @@
 /turf/open/indestructible/ground/outside/wood,
 /area/f13/raiders)
 "kbU" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4;
 	color = "#A47449"
 	},
@@ -26421,7 +26421,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/village)
 "khm" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5;
 	color = "#A47449"
 	},
@@ -26760,7 +26760,7 @@
 	},
 /area/f13/ncr)
 "knc" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /turf/open/indestructible/ground/outside/dirt{
 	dir = 10;
 	icon_state = "dirt"
@@ -28267,7 +28267,7 @@
 	},
 /area/f13/clinic)
 "kUf" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
 	icon_state = "floorrustysolid"
 	},
@@ -29029,7 +29029,7 @@
 	},
 /area/f13/building)
 "lkb" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /obj/structure/flora/ausbushes/sunnybush,
@@ -31141,7 +31141,7 @@
 	},
 /area/f13/wasteland)
 "mbN" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /obj/structure/destructible/tribal_torch/lit,
@@ -32081,7 +32081,7 @@
 	},
 /area/f13/village)
 "msH" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /turf/open/indestructible/ground/outside/sidewalk{
@@ -32480,7 +32480,7 @@
 /turf/open/floor/carpet,
 /area/f13/building)
 "mCd" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5;
 	color = "#A47449"
 	},
@@ -32673,7 +32673,7 @@
 /turf/open/floor/plasteel/floorgrime,
 /area/f13/building)
 "mHq" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /turf/open/floor/plasteel/darkblue/corner,
@@ -33650,7 +33650,7 @@
 	},
 /area/f13/kebab)
 "mXF" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6;
 	color = "#A47449"
 	},
@@ -36061,11 +36061,11 @@
 	pixel_x = -3;
 	pixel_y = 6
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	icon = 'modular_BD2/general/icons/fence.dmi';
 	icon_state = "straight_wood"
 	},
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	icon = 'modular_BD2/general/icons/fence.dmi';
 	icon_state = "straight_wood";
 	dir = 4
@@ -37153,7 +37153,7 @@
 /area/f13/wasteland)
 "oug" = (
 /obj/structure/table/wood/bar,
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5;
 	color = "#A47449"
 	},
@@ -38478,7 +38478,7 @@
 	},
 /area/f13/kebab)
 "oXR" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /turf/open/floor/plasteel/f13/vault_floor/white,
 /area/f13/building)
 "oYb" = (
@@ -40156,7 +40156,7 @@
 	icon_state = "maltesefalcon";
 	pixel_y = 32
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /turf/open/water,
@@ -40411,7 +40411,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "pLl" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/building)
 "pLn" = (
@@ -40563,7 +40563,7 @@
 	dir = 1;
 	pixel_x = -8
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5;
 	color = "#A47449"
 	},
@@ -40631,7 +40631,7 @@
 	},
 /area/f13/building)
 "pPY" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /obj/structure/flora/ausbushes/reedbush,
@@ -40838,7 +40838,7 @@
 /obj/structure/chair/folding{
 	dir = 4
 	},
-/obj/structure/fluff/railing/corner,
+/obj/structure/railing/corner,
 /turf/open/floor/plasteel/darkblue/corner,
 /area/f13/building)
 "pUG" = (
@@ -40853,7 +40853,7 @@
 /turf/open/floor/plasteel/darkblue/corner,
 /area/f13/building)
 "pUQ" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 9
 	},
 /turf/open/water,
@@ -41083,7 +41083,7 @@
 /turf/open/floor/wood/f13/oak,
 /area/f13/building)
 "qaa" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 9
 	},
 /turf/open/water,
@@ -42365,7 +42365,7 @@
 	},
 /area/f13/building)
 "qCj" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /obj/structure/flora/tree/tall{
 	icon_state = "tree_3";
 	pixel_y = 12
@@ -42564,7 +42564,7 @@
 	layer = 11;
 	name = "Yuma mall"
 	},
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
 	icon_state = "floorrustysolid"
 	},
@@ -42593,7 +42593,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/building)
 "qHJ" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 4;
 	color = "#A47449"
 	},
@@ -42791,7 +42791,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/building)
 "qLn" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /obj/structure/reagent_dispensers/barrel/two,
@@ -42903,7 +42903,7 @@
 /obj/structure/destructible/tribal_torch/wall/lit{
 	dir = 4
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /obj/structure/flora/junglebush/c,
@@ -43440,7 +43440,7 @@
 /turf/open/indestructible/ground/outside/ruins,
 /area/f13/kebab)
 "qYr" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6
 	},
 /turf/open/water,
@@ -43916,7 +43916,7 @@
 /obj/machinery/light/small{
 	dir = 1
 	},
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /turf/open/water,
@@ -44715,7 +44715,7 @@
 	},
 /area/f13/wasteland)
 "rDi" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /turf/open/floor/plasteel/darkblue/corner,
@@ -45492,7 +45492,7 @@
 /turf/open/indestructible/ground/outside/water,
 /area/f13/caves)
 "rTi" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
@@ -45592,7 +45592,7 @@
 	},
 /area/f13/wasteland)
 "rVK" = (
-/obj/structure/fluff/railing/corner,
+/obj/structure/railing/corner,
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/building)
 "rVM" = (
@@ -46056,7 +46056,7 @@
 /turf/open/floor/wood,
 /area/f13/building)
 "sfZ" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5
 	},
 /turf/open/water,
@@ -47102,7 +47102,7 @@
 /turf/open/indestructible/ground/outside/savannah,
 /area/f13/wasteland)
 "sBa" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#A47449"
 	},
 /obj/structure/flora/junglebush/c,
@@ -48323,7 +48323,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/village)
 "sYt" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 1
 	},
 /turf/open/floor/f13{
@@ -52206,7 +52206,7 @@
 	},
 /area/f13/wasteland)
 "uzv" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /turf/open/floor/carpet/purple,
@@ -53949,7 +53949,7 @@
 /turf/open/floor/plasteel/floorgrime,
 /area/f13/building)
 "vlH" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	color = "#968d87"
 	},
 /turf/open/floor/wood/f13/oak,
@@ -55175,7 +55175,7 @@
 /turf/open/indestructible/ground/inside/dirt/stamped,
 /area/f13/legion)
 "vPB" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 9
 	},
 /obj/structure/flora/ausbushes/palebush,
@@ -55746,7 +55746,7 @@
 /turf/open/floor/wood/f13/oak,
 /area/f13/building)
 "wcM" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 8
 	},
 /turf/open/indestructible/ground/outside/sidewalk{
@@ -55998,7 +55998,7 @@
 	},
 /area/f13/wasteland)
 "wiW" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 10
 	},
 /turf/open/water,
@@ -56975,7 +56975,7 @@
 	},
 /area/f13/wasteland)
 "wEM" = (
-/obj/structure/fluff/railing,
+/obj/structure/railing,
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/building)
 "wEO" = (
@@ -58110,7 +58110,7 @@
 	},
 /area/f13/wasteland)
 "wZM" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6;
 	color = "#A47449"
 	},
@@ -59099,7 +59099,7 @@
 /area/f13/building)
 "xpv" = (
 /obj/structure/flora/tree/jungle,
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 6
 	},
 /turf/open/water,
@@ -60200,7 +60200,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/caves)
 "xKI" = (
-/obj/structure/fluff/railing/corner,
+/obj/structure/railing/corner,
 /turf/open/floor/carpet/purple,
 /area/f13/cotc)
 "xLd" = (
@@ -61213,7 +61213,7 @@
 	},
 /area/f13/legion)
 "yea" = (
-/obj/structure/fluff/railing/corner{
+/obj/structure/railing/corner{
 	dir = 4
 	},
 /turf/open/floor/carpet/purple,
@@ -61475,7 +61475,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/building)
 "yiK" = (
-/obj/structure/fluff/railing{
+/obj/structure/railing{
 	dir = 5;
 	color = "#A47449"
 	},
