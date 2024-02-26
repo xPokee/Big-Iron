@@ -351,7 +351,7 @@
 /datum/export/large/mech/phazon/total_printout(datum/export_report/ex, notes = TRUE)
 	. = ..()
 	if(. && notes)
-		. += "We don't get it, why selling those cars and vehicules here when we do not want it while you can sell them from kebab for far more ? -Signed, train merchants."
+		. += "We don't get it, why selling those cars and vehicles here when we do not want it while you can sell them from kebab for far more ? -Signed, train merchants."
 
 /datum/export/large/mech/marauder
 	cost = 15000 //Still a Combat class mech - CC tech as well! 150% "normal" boundy price.
